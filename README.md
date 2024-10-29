@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anand Pathak</h1>
 <h2 align="center">👀 An IT Consultant, ready to solve any business problem with the help of Information Technology</h2>
 <h3 align=""center">
-  🌱 I’m keep learning everything that comes in my path that I don't know about.<br/>
+  🌱 I keep learning everything that comes in my path that I don't know about.<br/>
   💞️ I’m looking to collaborate on Java technologies<br/>
   📫 How to reach me? Ummm... not at the moment, I don't want to go public.
 </h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=anandpath&label=Profile%20views&color=0e75b6&style=flat" alt="anandpath" /> </p>
 
-- 🔭 I’m currently working on **Projects involving various languages, frameworks and technologies including (but not limited to) Java, Spring boot, Kafka, Mongo, AWS cloud, Angular.**
+- 🔭 I’m currently working on **Projects involving various languages, frameworks and technologies including (but not limited to) Java, Spring boot, Kafka, Mongo, AWS cloud, Python, Angular.**
 
 <p align="left">
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <hr/>
 <p align="left">
@@ -46,5 +45,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandpath&show_icons=true&locale=en" alt="anandpath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandpath&" alt="anandpath" /></p>
-
-
